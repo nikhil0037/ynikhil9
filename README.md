@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nikhil Kumar Yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm NikhiL</h1>
+<h2 align="center">A passionate frontend developer from India</h2>
 <img align="right" alt= "coding" width= "400" src="https://64.media.tumblr.com/0050ddc8d21883f3ef330150759ed361/tumblr_n5sgadiGtZ1qfjvexo1_500.gif"
 
 <h3 align="left">Connect with me:</h3>
