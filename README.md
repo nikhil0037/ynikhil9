@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikhil Kumar Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt= "coding" width= "400" src="https://sasj.tumblr.com/post/167703108545/geometric-animations-171120"
+<img align="right" alt= "coding" width= "400" src="https://sasj.tumblr.com/post/167703108545/geometric-animations-171120](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fprofile-readme%3Fl%3Dmarkdown&psig=AOvVaw1cZRhC0FD7BDpsNJWKMElR&ust=1681930549121000&source=images&cd=vfe&ved=0CBEQjRxqGAoTCLiHz9WNtP4CFQAAAAAdAAAAABCbAQ"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
