@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikhil Kumar Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt= "coding" width= "400" src="![image](https://user-images.githubusercontent.com/82282998/232878290-2fcdd3f0-0316-4cd2-b372-8628040efe7a.png)"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
