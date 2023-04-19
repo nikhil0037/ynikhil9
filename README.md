@@ -1,3 +1,4 @@
+![github-header-image](https://user-images.githubusercontent.com/82282998/233130420-13338daf-32bd-409d-8293-8194a94f7353.png)
 <h1 align="center">Hi 👋, I'm NikhiL</h1>
 <h2 align="center">A passionate frontend developer from India</h2>
 <img align="right" alt= "coding" width= "400" src="https://64.media.tumblr.com/0050ddc8d21883f3ef330150759ed361/tumblr_n5sgadiGtZ1qfjvexo1_500.gif"
