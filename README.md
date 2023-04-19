@@ -1,4 +1,4 @@
-![github-header-image](https://user-images.githubusercontent.com/82282998/233130420-13338daf-32bd-409d-8293-8194a94f7353.png)
+![github-header-image](https://user-images.githubusercontent.com/82282998/233135303-f6fe8d18-6ba0-454f-a620-18a65bf33cd7.png)
 
 <img align="right" alt= "coding" width= "400" src="https://64.media.tumblr.com/0050ddc8d21883f3ef330150759ed361/tumblr_n5sgadiGtZ1qfjvexo1_500.gif"
 <h3 align="left">Connect with me:</h3>
